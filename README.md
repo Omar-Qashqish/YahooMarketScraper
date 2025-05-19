@@ -92,11 +92,11 @@ The values are dynamically fetched from Yahoo Finance and stored **as-is** with 
 
 ## ⚙️ Technologies Used
 
-- **Python 3.10+**  
+- **Python**  
 - **pandas**  
 - **requests**  
-- **BeautifulSoup (bs4)
-- Selenium
+- **BeautifulSoup (bs4)**
+- **Selenium**
 - **pyodbc** 
 - **SQL Server 2022**  
 - **ODBC Driver 17 for SQL Server**  
